@@ -27,7 +27,7 @@ Does not belong here:
 ## Tools
 
 | Tool | GitHub repo | Purpose |
-| --- | --- |
+| --- | --- | --- |
 | `ai-workflow-automation-mini-sprint` | [stefan-mcf/data-pipeline](https://github.com/stefan-mcf/data-pipeline) | Local-first workflow automation tool with CLI, reports, JSON summaries, and optional FastAPI wrapper. |
 | `api-webhook-bridge` | [stefan-mcf/api-webhook-bridge](https://github.com/stefan-mcf/api-webhook-bridge) | Fixture-safe FastAPI webhook bridge for validation, mapping, and audit-backed integration walkthroughs. |
 | `automation-debugger` | [stefan-mcf/automation-debugger](https://github.com/stefan-mcf/automation-debugger) | Fixture-safe broken automation diagnosis and replay tool. |
